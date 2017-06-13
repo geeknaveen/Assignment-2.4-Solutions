@@ -1,3 +1,8 @@
+/* A student has A grade if marks are more than 70, B grade if marks are between 61 and 70 
+    and C grade if marks are less than 61 ) Write a program to print the grade for the given marks.  
+    Take three subjects like PCM and calculate the average and the above grading system will 
+    work on the average.  Take marks of the subject from the user */ 
+
 package asst2_4;
 
 import java.util.Scanner;
