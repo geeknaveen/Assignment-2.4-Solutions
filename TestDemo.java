@@ -1,3 +1,10 @@
+ /* Write a program TestDemo.java, which accepts the number as argument and print “You 
+    Have Entered Zero” if the value is equal to 0 along with the ASCII value of the number.  
+      It should print “You Have Entered Positive Value” if the value is greater than 0 along with 
+    the ASCII value.  
+        It should print “You Have Entered Negative Value” if the value is less than 0 along with the 
+    ASCII value */
+
 package asst2_4;
 
 import java.util.Scanner;
